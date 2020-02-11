@@ -18,6 +18,5 @@ namespace Calculator
             Do = Sum;
             Symbol = '+';
         }
-
     }
 }

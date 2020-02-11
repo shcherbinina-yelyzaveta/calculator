@@ -4,7 +4,7 @@ namespace Calculator
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Calculator calculator = new Calculator();
             Console.WriteLine("Hello! Please enter an expression to calculate:");
